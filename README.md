@@ -3,11 +3,6 @@
 ## About
 A Django based Web Application to detect the presence of [COVID-19](https://en.wikipedia.org/wiki/COVID-19) in Chest X-Ray Images. The Deep Learning models are trained on a publicly available dataset of ~2500 Chest X-Ray Images labelled as either COVID-19 or non-COVID. For better comparison purposes, three different architectures were used which includes, Xception, ResNet50 and VGG16. The models were trained separately on the dataset and the weightfiles were later loaded onto the Webapp to detect the presence of COVID-19
 
-## Demo 
-<p align="center">
-  <img src="/Demo/demo.gif" alt="animated" />
-</p>
-
 ## Model Performance
 
 ### ResNet50 
