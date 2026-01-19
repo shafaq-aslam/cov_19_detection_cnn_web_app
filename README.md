@@ -26,7 +26,7 @@ A Django based Web Application to detect the presence of [COVID-19](https://en.w
 - **Model Architecture**
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53687927/118811078-3494be80-b8ca-11eb-9948-7e06064030c3.png"></p>
+<img src="https://github.com/shafaq-aslam/cov_19_detection_cnn_web_app/blob/main/Model_images/vgg16.png"></p>
 
 - **Loss Curves**
 <br>
